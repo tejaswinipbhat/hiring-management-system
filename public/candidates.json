@@ -1,0 +1,22 @@
+[
+  { "id": "candidate-1", "name": "Alice Johnson", "email": "alice.johnson@email.com", "phone": "+1-555-0101", "resumeLink": "https://example.com/resume/alice.pdf", "appliedFor": "Senior Frontend Developer111", "stage": "Applied" },
+  { "id": "candidate-2", "name": "Bob Smith", "email": "bob.smith@email.com", "phone": "+1-555-0102", "resumeLink": "https://example.com/resume/bob.pdf", "appliedFor": "Backend Engineer", "stage": "Interview Scheduled" },
+  { "id": "candidate-3", "name": "Charlie Brown", "email": "charlie.brown@email.com", "phone": "+1-555-0103", "resumeLink": "https://example.com/resume/charlie.pdf", "appliedFor": "DevOps Engineer", "stage": "Offer Extended" },
+  { "id": "candidate-4", "name": "Diana Prince", "email": "diana.prince@email.com", "phone": "+1-555-0104", "resumeLink": "https://example.com/resume/diana.pdf", "appliedFor": "Product Manager", "stage": "Shortlisted" },
+  { "id": "candidate-5", "name": "Eva Martinez", "email": "eva.martinez@email.com", "phone": "+1-555-0105", "resumeLink": "https://example.com/resume/eva.pdf", "appliedFor": "UX Designer", "stage": "Applied" },
+  { "id": "candidate-6", "name": "Frank Wilson", "email": "frank.wilson@email.com", "phone": "+1-555-0106", "resumeLink": "https://example.com/resume/frank.pdf", "appliedFor": "Sales Manager", "stage": "Interview Scheduled" },
+  { "id": "candidate-7", "name": "Grace Lee", "email": "grace.lee@email.com", "phone": "+1-555-0107", "resumeLink": "https://example.com/resume/grace.pdf", "appliedFor": "Marketing Specialist", "stage": "Applied" },
+  { "id": "candidate-8", "name": "Henry Davis", "email": "henry.davis@email.com", "phone": "+1-555-0108", "resumeLink": "https://example.com/resume/henry.pdf", "appliedFor": "Data Scientist", "stage": "Rejected" },
+  { "id": "candidate-9", "name": "Iris Chen", "email": "iris.chen@email.com", "phone": "+1-555-0109", "resumeLink": "https://example.com/resume/iris.pdf", "appliedFor": "HR Manager", "stage": "Shortlisted" },
+  { "id": "candidate-10", "name": "Jack Thompson", "email": "jack.thompson@email.com", "phone": "+1-555-0110", "resumeLink": "https://example.com/resume/jack.pdf", "appliedFor": "Sales Representative", "stage": "Interview Scheduled" },
+  { "id": "candidate-11", "name": "Kate Anderson", "email": "kate.anderson@email.com", "phone": "+1-555-0111", "resumeLink": "https://example.com/resume/kate.pdf", "appliedFor": "Customer Success Manager", "stage": "Applied" },
+  { "id": "candidate-12", "name": "Liam Garcia", "email": "liam.garcia@email.com", "phone": "+1-555-0112", "resumeLink": "https://example.com/resume/liam.pdf", "appliedFor": "Finance Analyst", "stage": "Offer Extended" },
+  { "id": "candidate-13", "name": "Maya Patel", "email": "maya.patel@email.com", "phone": "+1-555-0113", "resumeLink": "https://example.com/resume/maya.pdf", "appliedFor": "Backend Engineer", "stage": "Hired" },
+  { "id": "candidate-14", "name": "Nathan Rodriguez", "email": "nathan.rodriguez@email.com", "phone": "+1-555-0114", "resumeLink": "https://example.com/resume/nathan.pdf", "appliedFor": "Senior Frontend Developer111", "stage": "Applied" },
+  { "id": "candidate-15", "name": "Olivia Taylor", "email": "olivia.taylor@email.com", "phone": "+1-555-0115", "resumeLink": "https://example.com/resume/olivia.pdf", "appliedFor": "UX Designer", "stage": "Interview Scheduled" },
+  { "id": "candidate-16", "name": "Peter Kim", "email": "peter.kim@email.com", "phone": "+1-555-0116", "resumeLink": "https://example.com/resume/peter.pdf", "appliedFor": "DevOps Engineer", "stage": "Shortlisted" },
+  { "id": "candidate-17", "name": "Quinn White", "email": "quinn.white@email.com", "phone": "+1-555-0117", "resumeLink": "https://example.com/resume/quinn.pdf", "appliedFor": "Marketing Specialist", "stage": "Rejected" },
+  { "id": "candidate-18", "name": "Rachel Green", "email": "rachel.green@email.com", "phone": "+1-555-0118", "resumeLink": "https://example.com/resume/rachel.pdf", "appliedFor": "Data Scientist", "stage": "Applied" },
+  { "id": "candidate-19", "name": "Sam Johnson", "email": "sam.johnson@email.com", "phone": "+1-555-0119", "resumeLink": "https://example.com/resume/sam.pdf", "appliedFor": "Product Manager", "stage": "Hired" },
+  { "id": "candidate-20", "name": "Tina Wright", "email": "tina.wright@email.com", "phone": "+1-555-0120", "resumeLink": "https://example.com/resume/tina.pdf", "appliedFor": "Sales Manager", "stage": "Interview Scheduled" }
+]

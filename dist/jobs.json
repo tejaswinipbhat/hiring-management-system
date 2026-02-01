@@ -1,0 +1,17 @@
+[
+  { "id": 1, "title": "Senior Frontend Developer", "department": "Engineering", "status": "Open", "location": "San Francisco", "type": "Full-time" },
+  { "id": 2, "title": "Backend Engineer", "department": "Engineering", "status": "Open", "location": "Remote", "type": "Full-time" },
+  { "id": 3, "title": "DevOps Engineer", "department": "Engineering", "status": "Open", "location": "New York", "type": "Full-time" },
+  { "id": 4, "title": "Product Manager", "department": "Product", "status": "Open", "location": "San Francisco", "type": "Full-time" },
+  { "id": 5, "title": "UX Designer", "department": "Design", "status": "Open", "location": "Remote", "type": "Full-time" },
+  { "id": 6, "title": "HR Manager", "department": "HR", "status": "Open", "location": "San Francisco", "type": "Full-time" },
+  { "id": 7, "title": "Sales Manager", "department": "Sales", "status": "Open", "location": "Chicago", "type": "Full-time" },
+  { "id": 8, "title": "Sales Representative", "department": "Sales", "status": "Open", "location": "Remote", "type": "Full-time" },
+  { "id": 9, "title": "Marketing Specialist", "department": "Marketing", "status": "Open", "location": "Los Angeles", "type": "Full-time" },
+  { "id": 10, "title": "Data Scientist", "department": "Engineering", "status": "Open", "location": "Boston", "type": "Full-time" },
+  { "id": 11, "title": "QA Engineer", "department": "Engineering", "status": "Closed", "location": "San Francisco", "type": "Full-time" },
+  { "id": 12, "title": "Content Writer", "department": "Marketing", "status": "Closed", "location": "Remote", "type": "Contract" },
+  { "id": 13, "title": "Customer Success Manager", "department": "Customer Success", "status": "Open", "location": "Austin", "type": "Full-time" },
+  { "id": 14, "title": "Finance Analyst", "department": "Finance", "status": "Open", "location": "New York", "type": "Full-time" },
+  { "id": 15, "title": "Legal Counsel", "department": "Legal", "status": "Closed", "location": "San Francisco", "type": "Full-time" }
+]

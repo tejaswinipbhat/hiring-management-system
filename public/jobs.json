@@ -1,0 +1,17 @@
+[
+  { "id": "job-1", "title": "Senior Frontend Developer111", "department": "Engineering", "description": "We are seeking an experienced frontend developer with expertise in React and modern JavaScript.", "status": "Open" },
+  { "id": "job-2", "title": "Backend Engineer", "department": "Engineering", "description": "Join our backend team to build scalable APIs and microservices.", "status": "Open" },
+  { "id": "job-3", "title": "DevOps Engineer", "department": "Engineering", "description": "Manage our cloud infrastructure and CI/CD pipelines.", "status": "Open" },
+  { "id": "job-4", "title": "Product Manager", "department": "Product", "description": "Lead product strategy and roadmap for our flagship products.", "status": "Open" },
+  { "id": "job-5", "title": "UX Designer", "department": "Design", "description": "Design beautiful and intuitive user experiences for our applications.", "status": "Open" },
+  { "id": "job-6", "title": "HR Manager", "department": "HR", "description": "Oversee HR operations and employee relations.", "status": "Open" },
+  { "id": "job-7", "title": "Sales Manager", "department": "Sales", "description": "Drive sales strategy and manage the sales team.", "status": "Open" },
+  { "id": "job-8", "title": "Sales Representative", "department": "Sales", "description": "Build relationships with clients and drive revenue growth.", "status": "Open" },
+  { "id": "job-9", "title": "Marketing Specialist", "department": "Marketing", "description": "Execute marketing campaigns and analyze performance metrics.", "status": "Open" },
+  { "id": "job-10", "title": "Data Scientist", "department": "Engineering", "description": "Apply machine learning and statistical methods to solve business problems.", "status": "Open" },
+  { "id": "job-11", "title": "QA Engineer", "department": "Engineering", "description": "Ensure quality through comprehensive testing strategies.", "status": "Closed" },
+  { "id": "job-12", "title": "Content Writer", "department": "Marketing", "description": "Create compelling content for various marketing channels.", "status": "Closed" },
+  { "id": "job-13", "title": "Customer Success Manager", "department": "Operations", "description": "Ensure customer satisfaction and drive product adoption.", "status": "Open" },
+  { "id": "job-14", "title": "Finance Analyst", "department": "Finance", "description": "Analyze financial data and provide insights to leadership.", "status": "Open" },
+  { "id": "job-15", "title": "Legal Counsel", "department": "Finance", "description": "Provide legal guidance on contracts and compliance matters.", "status": "Closed" }
+]
